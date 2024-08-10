@@ -1,2 +1,5 @@
 # Xaeros-Minimap-Waypoints
-Unzip into \.minecraft (This will overwrite previously made waypoints on the server!)
+
+Xaero's Minimap waypoints for Salty Spittoon. Copy folder, "XaeroWaypoints" to .minecraft
+
+(This will overwrite previously made waypoints on the server!)
