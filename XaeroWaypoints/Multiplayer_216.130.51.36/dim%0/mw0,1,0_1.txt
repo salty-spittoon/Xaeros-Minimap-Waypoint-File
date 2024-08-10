@@ -1,0 +1,17 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Nether Portal:N:23:51:-1:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Deep Dark Entrance:D:-2624:95:-940:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Turtle Farm:T:-408:70:-450:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Stronghold Entrance:S:1632:100:1393:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pillager Outpost:P:1209:118:2085:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Trial Chamber Entrance:T:-874:75:215:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Creeper Farm:C:-1622:250:1174:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Coal Mining Mountain:C:-17:100:-561:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:New Players Residence:N:-1:100:-397:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Resources & Refinement:R:410:100:-7:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Raid Farm:R:277:75:257:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Farm:F:-39:100:420:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Item Sorter:I:-400:100:0:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Home Base:H:31:75:12:10:false:0:gui.xaero_default:false:0:0:false

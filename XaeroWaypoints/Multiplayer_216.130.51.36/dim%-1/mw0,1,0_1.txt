@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Fortress Entrance:F:-132:60:220:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bastion:B:350:75:80:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ancient Debris Mine:S:47:15:1:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Portal:P:0:75:0:13:false:0:gui.xaero_default:false:0:0:false
